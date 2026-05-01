@@ -33,9 +33,5 @@ A web-based application designed to simplify and organize wedding planning. This
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/wedding-management.git
-Navigate to the project folder:
-cd wedding-management
-Install dependencies:
-npm install
-Run the project:
-npm start
+
+2. Navigate to the project folder:
