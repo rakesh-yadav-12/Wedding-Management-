@@ -35,3 +35,17 @@ A web-based application designed to simplify and organize wedding planning. This
 git clone https://github.com/your-username/wedding-management.git
 
 2. Navigate to the project folder:
+cd wedding-management
+
+3. Install dependencies:
+npm install
+
+4. Run the project:
+npm start
+📸 Screenshots
+
+## Add screenshots
+
+👤 Author
+Rakesh Yadav
+https://github.com/rakesh-yadav-12/Wedding-Management-/edit/main/README.md
