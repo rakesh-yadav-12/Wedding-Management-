@@ -45,6 +45,7 @@ npm install
 📸 Screenshots
 
 ## Add screenshots
+<img width="489" height="94" alt="image" src="https://github.com/user-attachments/assets/5dc99ea7-b5ed-4999-a5a9-1900e5890055" />
 
 👤 Author
 Rakesh Yadav
@@ -52,5 +53,4 @@ https://github.com/rakesh-yadav-12/Wedding-Management-/edit/main/README.md
 
 
 
-📸 Screenshots & Step-by-Step Usage
-1️⃣ Home Page
+
