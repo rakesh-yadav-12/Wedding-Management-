@@ -72,13 +72,13 @@ A web-based application designed to simplify and organize wedding planning. This
 
 ## Our Pricing
 <img width="1914" height="988" alt="image" src="https://github.com/user-attachments/assets/3e4ea52d-df2b-4e9e-9211-3d0ad3f9f37e" />
-# Basic Plan
+## Basic Plan
 <img width="1916" height="1026" alt="image" src="https://github.com/user-attachments/assets/57a22e63-ee6a-4f23-b739-81ea41ed2429" />
 <img width="1895" height="928" alt="image" src="https://github.com/user-attachments/assets/f7eba3ac-5213-4a77-b89e-a13d0645373e" />
-# Standard Plan
+## Standard Plan
 <img width="1912" height="981" alt="image" src="https://github.com/user-attachments/assets/ddfa8b2b-daeb-41da-9175-059f5b50e7fb" />
 <img width="1906" height="918" alt="image" src="https://github.com/user-attachments/assets/871afb7a-03f9-4726-8917-3947708acd8d" />
-# Ultimate Plan
+## Ultimate Plan
 <img width="1887" height="910" alt="image" src="https://github.com/user-attachments/assets/875d2808-23cb-4b68-95bd-ba1d1f00af1a" />
 <img width="1887" height="961" alt="image" src="https://github.com/user-attachments/assets/c0aa410b-ce8f-45e7-9b98-94707d2cae42" />
 
