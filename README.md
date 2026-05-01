@@ -41,7 +41,7 @@ cd wedding-management
 npm install
 
 4. Run the project:
-npm start
+-npm start
 📸 Screenshots
 
 ## Add screenshots
