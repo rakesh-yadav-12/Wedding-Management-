@@ -24,3 +24,9 @@ A web-based application designed to simplify and organize wedding planning. This
 ---
 
 ## 📂 Project Structure
+wedding-management/
+│── frontend/ # UI files
+│── backend/ # Server-side logic
+│── database/ # DB schemas or scripts
+│── assets/ # Images, icons
+│── README.md
