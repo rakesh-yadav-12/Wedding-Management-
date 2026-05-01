@@ -49,3 +49,8 @@ npm start
 👤 Author
 Rakesh Yadav
 https://github.com/rakesh-yadav-12/Wedding-Management-/edit/main/README.md
+
+
+
+📸 Screenshots & Step-by-Step Usage
+1️⃣ Home Page
